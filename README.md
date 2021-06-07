@@ -3,7 +3,7 @@
 Für Corona Impfzentren in Berlin entwickelt. Diese Erweiterung lädt die Seite automatisch neu, bis ein verfügbarer Termin gefunden wurde und klickt automatisch den Ersttermin an. Danach muss man selbst nur noch den Zweittermin schnellstmöglich auswählen. 
 
 ## Vorgehen
-1) Erweiterung installieren.
+1) Erweiterung installieren. ([Anleitung](https://de.malavida.com/faq/google-chrome/so-installieren-sie-erweiterungen-plugins-in-google-chrome-fur-pc.html))
 2) Je nach Impfstoffwunsch eine oder mehrere der folgenden Seiten im eigenen Fenster öffnen:
 
 	**BioNTech**
