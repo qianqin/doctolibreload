@@ -1,0 +1,14 @@
+{
+  "name": "Impftermin Sucher für Doctolib",
+  "description": "Lädt die Doctolib Seite so oft neu, bis ein freier Termin gefunden wurde.",
+  "version": "1.0",
+  "manifest_version": 2,
+  "icons": { "64": "icon.png" },
+  "web_accessible_resources": ["alert.mp3"],
+  "content_scripts": [
+        {
+            "matches": ["*://www.doctolib.de/institut/berlin/ciz-berlin-berlin*"],
+            "js": ["content.js"]			
+        }
+	]
+}
