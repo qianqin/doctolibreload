@@ -5,13 +5,14 @@ Für Corona Impfzentren in Berlin entwickelt. Diese Erweiterung lädt die Seite 
 ## Vorgehen
 1) Erweiterung installieren.
 2) Je nach Impfstoffwunsch eine oder mehrere der folgenden Seiten im eigenen Fenster öffnen:
-	###BioNTech
+
+	**BioNTech**
 	- https://www.doctolib.de/institut/berlin/ciz-berlin-berlin
 	- https://www.doctolib.de/institut/berlin/ciz-berlin-berlin?pid=practice-158435
 	- https://www.doctolib.de/institut/berlin/ciz-berlin-berlin?pid=practice-158436
 	- https://www.doctolib.de/institut/berlin/ciz-berlin-berlin?pid=practice-158434
 
-	###Moderna
+	**Moderna**
 	- https://www.doctolib.de/institut/berlin/ciz-berlin-berlin?pid=practice-158437
 	- https://www.doctolib.de/institut/berlin/ciz-berlin-berlin?pid=practice-191611
 	- https://www.doctolib.de/institut/berlin/ciz-berlin-berlin?pid=practice-191612
